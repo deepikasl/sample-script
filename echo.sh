@@ -1,3 +1,3 @@
 echo 'Hello bash test!'
-test=hello
-kermit=ribbit
+ls -la
+echo 'end'
