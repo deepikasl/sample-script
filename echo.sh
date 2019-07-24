@@ -1,3 +1,2 @@
-echo 'Hello bash test!'
-pwd
+echo 'Hello bash test'
 echo 'end'
