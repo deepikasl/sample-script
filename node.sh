@@ -1,2 +1,2 @@
-echo 'node.sh'
+echo 'node.sh!'
 echo 'end'
