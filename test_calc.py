@@ -34,7 +34,7 @@ class TestApplication(unittest.TestCase):
         concatenated string (in which the integer is converted to a string)
         """
         result = calc.add2('abc', 3)
-        self.assertEqual(result, 'abc4')
+        self.assertEqual(result, 'abc3')
 
     def test_add_string_and_number(self):
         """
