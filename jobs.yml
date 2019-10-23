@@ -1,18 +1,18 @@
 resources:
-  - name: github_new_1_test_6
+  - name: github_new_1_test_7
     type: GitRepo
     configuration:
       path: deepikasl/VT2
       gitProvider: deepikaGithub
 
 pipelines:
-  - name: pipeline_new_1_test_6
+  - name: pipeline_new_1_test_7
     steps:          
-      - name: bash_new_1_test_6
+      - name: bash_new_1_test_7
         type: Bash
         configuration:
           inputResources:
-            - name: github_new_1_test_6
+            - name: github_new_1_test_7
         execution:
           onExecute:
             - echo "executing bash step..."
