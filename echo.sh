@@ -3,3 +3,4 @@ echo 'end'
 echo 'lol'
 # echo "ji"tested
 echo 'hi-before'
+echo 'hi-after'
