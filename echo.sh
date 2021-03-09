@@ -4,3 +4,4 @@ echo 'lol'
 # echo "ji"tested
 echo 'hi-before'
 echo 'hi-after'
+echo 'hi-after2'
