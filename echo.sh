@@ -1,3 +1,3 @@
 echo 'Hello bash test'
-echo 'test'
+echo 'testing'
 echo 'end'
