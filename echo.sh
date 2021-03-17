@@ -1,2 +1,2 @@
-echo 'Hello bash test'
+echo 'Hello bash testing'
 echo 'end'
