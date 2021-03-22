@@ -1,3 +1,3 @@
 echo 'Hello bash test'
-echo 'Testing triggeredBy'
+echo 'Testing triggeredBy check'
 echo 'end'
