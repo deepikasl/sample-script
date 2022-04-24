@@ -5,6 +5,7 @@ resources:
       path: deepikasl/VT2
       gitProvider: deepikaGithub
 
+
 pipelines:
   - name: pipeline_new_1
     steps:          
